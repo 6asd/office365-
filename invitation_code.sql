@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : 阿里云学生机
- Source Server Type    : MySQL
- Source Server Version : 50726
- Source Host           : nikm.cn:3306
- Source Schema         : ms
-
- Target Server Type    : MySQL
- Target Server Version : 50726
- File Encoding         : 65001
-
- Date: 29/05/2020 17:27:06
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
